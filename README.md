@@ -8,3 +8,7 @@ My goal is to compile a binary for emulation.
 
 From the original:
 "In the development of OUP/M, an OSI C-3 microcomputer system was used. This system consists of a 6502 CPU, a dual 8-inch floppy disk drive, a console, a printer, and 56 K bytes of RAM. On this machine all I/O is memory mapped and address space layout has to be taken into consideration."
+
+Further discussion and a working build can be found at the OSIWeb Forums:
+http://osiweb.org/osiforum/viewtopic.php?f=3&t=432&p=2772#p2764
+
